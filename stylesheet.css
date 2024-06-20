@@ -1,0 +1,186 @@
+h1 {
+    color: #f2e7dc;
+    font-family: serif;
+}
+
+h2 {
+Font-size: 30px;
+Text-align: center;
+Font-family: cursive;
+    color: #36220b;
+}
+
+h3 {
+    font-size: 28px;
+    text-align: center;
+    font-family: serif;
+    color: #613a2e;
+}
+
+P {
+Font-size: 27px;
+Text-align: center;
+    color: #613a2e;
+}
+.myDiv {
+
+border: 8px outset #937159;
+background-color: #937159;
+text-align: center;
+}
+
+.myDiv1 {
+Border: 3px groove #fcffe7;
+Background-color: #fcffe7;
+Text-align: center;
+
+}
+
+.myDiv2 {
+border: 3px groove #eaf3f1;
+Background-color: #eaf3f1;
+Text-align: center;
+
+}
+
+.myDiv3 {
+    border: 3px groove #aaaec6;
+    background-color: #aaaec6;
+    text-align: center;
+}
+
+.myDiv4 {
+    border: 3px groove #616e81;
+    background-color: #616e81;
+    text-align: center;
+}
+
+.myDivA {
+    border: 2px dotted #cfba91;
+        background-color: beige;
+    text-align: left;
+}
+
+.myDivB {
+    text-align: center;
+    font-size: 30px;
+}
+
+.myDivC {
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+    color: #5e3e17;
+}
+
+.myDivD {
+    border: 2px dotted #cfba91;
+    text-align: center;
+    background-color: beige;
+}
+
+.myDivE {
+    text-align: center;
+}
+
+.myDivF {
+    text-align: center;
+    
+}
+    
+.myDiv5 {
+        font-family: monospace;
+        font-size: 50px;
+    }
+    
+.myDivH {
+        text-align: center;
+    }
+    
+.myDivJ {
+    
+    text-align: center;
+}
+
+.myDivI {
+    
+    text-align: center;
+}
+
+.myDivG {
+    Border: 2px dotted;
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: tahoma;
+    font-size: 20px;
+}
+
+.myDiv8 {
+    
+    text-align: center;
+    font-size: 35px;
+}
+
+.myDivK {
+    border: 2px dotted;
+    background-color: #fcffe7;
+    text-align: center;
+}
+
+.myDivL {
+    
+    text-align: center;
+}
+
+.myDivM {
+    text-align: center;
+    
+}
+
+.myDivN {
+    text-align: center;
+}
+
+.myDivO {
+    text-align: center;
+}
+
+.myDivP {
+    text-align:center;
+}
+
+.myDivQ {
+    text-align: center;
+    
+}
+
+.myDivZ {
+    border: 2px dotted;
+    background-color: #eaf3f1;
+    text-align: center;
+}
+
+.myDivY {
+    border: 2px dotted;
+    background-color: #fbe0ae;
+    text-align: center;
+}
+
+.myDivX {
+    text-align: center;
+}
+
+.myDivW {
+    text-align: center;
+    border: 2px double #cc9a86;
+    background-color: #8d6e63;
+    color: #fff3e0;
+    font-size: 23px;
+}
+
+Body {
+Background-color: #d2b1a2;
+}
+
+</head>
+<body> 
